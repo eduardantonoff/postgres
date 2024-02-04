@@ -1,2 +1,0 @@
-# postgres
-SF MIPT HW

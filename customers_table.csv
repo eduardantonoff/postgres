@@ -1,0 +1,11 @@
+customer_id,first_name,last_name,gender,DOB,job_title,job_industry_category,wealth_segment,deceased_indicator,owns_car,address,postcode,state,country,property_valuation
+816,Donni,Boor,Female,1957-01-10 00:00:00,Product Engineer,Manufacturing,Mass Customer,N,No,58047 Westport Road,2040,NSW,Australia,12
+1132,Coriss,Darkott,Female,1985-08-01 00:00:00,Actuary,Financial Services,Affluent Customer,N,Yes,92 Melvin Hill,2147,NSW,Australia,9
+1577,Diannne,Teager,Female,1976-09-08 00:00:00,Automation Specialist I,Manufacturing,High Net Worth,N,No,45314 Pepper Wood Junction,2251,NSW,Australia,6
+1017,Jacquenette,Pluthero,Female,1979-01-09 00:00:00,Assistant Media Planner,Entertainment,High Net Worth,N,No,0996 Cody Terrace,2761,NSW,Australia,8
+3323,Cortie,Hamshar,Male,1973-03-01 00:00:00,Account Representative I,Health,High Net Worth,N,No,973 Menomonie Hill,3337,VIC,Australia,4
+1154,Chase,Youd,Male,1974-11-24 00:00:00,Research Nurse,Health,Mass Customer,N,Yes,7975 Browning Plaza,3038,VIC,Australia,4
+1472,Demeter,Robbeke,Female,1964-03-03 00:00:00,Environmental Specialist,Financial Services,Mass Customer,N,No,589 Main Plaza,2290,NSW,Australia,4
+1233,Keeley,Hawsby,Female,1978-07-07 00:00:00,,Retail,Affluent Customer,N,Yes,17357 Katie Center,3677,VIC,Australia,4
+431,Gale,Done,Male,1956-03-26 00:00:00,Research Nurse,Health,Affluent Customer,N,Yes,4284 Surrey Circle,2068,NSW,Australia,12
+2505,Myrah,McCarry,Female,1980-08-25 00:00:00,VP Marketing,Financial Services,High Net Worth,N,No,53 Anthes Point,4341,QLD,Australia,2
